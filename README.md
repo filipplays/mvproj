@@ -1,6 +1,6 @@
 # mvproj
 
-Tale readme je pač readme
+Tole pa pac ni read me hehe
 
 1. Člani (vzdevki ali ...tizanska imena):
    1. mona
